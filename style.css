@@ -1,0 +1,26 @@
+#footer {
+    font-weight: bold;
+    border-width: 2px;
+    border-radius: 3px;
+    border-style: ridge;
+    width: 200px;
+    text-align: center;
+    margin-top: 300px;
+    text-shadow: 4px 4px grey;
+    line-height: 2;
+    background-color: aliceblue;
+}
+body{
+    font-family: 'Press Start 2P', cursive;
+    background-color: darkgoldenrod;
+}
+.heading-div{
+    background-color: aliceblue;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    text-align: center;
+}
+.main-div{
+    margin-top: 100px;
+}
